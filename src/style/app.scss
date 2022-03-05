@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Lato", sans-serif;
+}
+body {
+  background-image: url(https://images.unsplash.com/photo-1508197149814-0cc02e8b7f74?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1695&q=80);
+  background-size: cover;
+}
+
+.intro-tag {
+  color: rgb(127, 199, 243);
+  font-size: 3.5rem;
+  padding: 2rem 2rem;
+}
+
+@import "./createColumn";
+@import url("https://fonts.googleapis.com/css2?family=Lato&display=swap");
