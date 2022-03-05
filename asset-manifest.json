@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/income-calc/static/css/main.0f690ea2.css",
+    "main.js": "/income-calc/static/js/main.f5c4a8fd.js",
+    "static/js/787.7cbde52f.chunk.js": "/income-calc/static/js/787.7cbde52f.chunk.js",
+    "index.html": "/income-calc/index.html",
+    "main.0f690ea2.css.map": "/income-calc/static/css/main.0f690ea2.css.map",
+    "main.f5c4a8fd.js.map": "/income-calc/static/js/main.f5c4a8fd.js.map",
+    "787.7cbde52f.chunk.js.map": "/income-calc/static/js/787.7cbde52f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f690ea2.css",
+    "static/js/main.f5c4a8fd.js"
+  ]
+}
